@@ -17,9 +17,9 @@ public class Env {
 	public static String suiteToken; 
 
 	public static final String CREATE_SUITE_KEY = "suite4xxxxxxxxxxxxxxx";
-	public static final String SUITE_KEY = "";
-	public static final String SUITE_SECRET = "";
-	public static final String TOKEN = "";
-	public static final String ENCODING_AES_KEY = "";
+	public static final String SUITE_KEY = "suitef8ifu9b1lptkxhnc";
+	public static final String SUITE_SECRET = "NfJFlbhd6Hpf-F-h29qGkPrAFCwagnNIpnaaK4anlkV4cZjUw_tTCWTPs_XJNLGo";
+	public static final String TOKEN = "hongsongmyc";
+	public static final String ENCODING_AES_KEY = "7y6o7dtyh682ic827g6iqu8eatelxaj9ph0443tw9r9";
 	
 }
